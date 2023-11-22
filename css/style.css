@@ -1881,7 +1881,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     float: left;
     width: 100%;
     background-color: #222222;
-    position: fixed;
+    /* position: fixed; */
     bottom: 0;
     z-index: -1;
 }
